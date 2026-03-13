@@ -29,7 +29,7 @@ I enjoy combining **programming, game development, design, and technology** to c
 
 ## 🔥 Projects
 
-I'm currently working on projects together with **Sparks' Studio**, where we explore new ideas and experiment with different kinds of software.
+I'm currently working on projects together with [**Sparks' Studio**](https://github.com/SparksStudioOrg), where we explore new ideas and experiment with different kinds of software.
 
 ## 🎯 Goals
 
