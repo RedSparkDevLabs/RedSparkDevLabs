@@ -4,21 +4,33 @@ I'm a young developer who loves building creative and experimental projects.
 
 I enjoy combining **programming, game development, design, and technology** to create new ideas.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedSparkDevLabs&show_icons=true)
+
 ## 🚀 Interests
 
-* Programming
+* Programming and software engineering
 * Game development
-* Artificial Intelligence
+* Artificial intelligence
 * Programming language design
-* Experimental software
+* Experimental and creative technology
 * Open source
 
-## 🛠️ Technologies I'm learning
+## 🛠️ Technologies
+
+Currently learning and experimenting with:
 
 * Python
 * Java
 * C / C++
 * Rust
+
+Tools:
+
+* Git
+* GitHub
+* VS Code
+* IntelliJ IDEA
+* PyCharm
 
 ## 🧠 What I like to build
 
@@ -29,18 +41,24 @@ I enjoy combining **programming, game development, design, and technology** to c
 
 ## 🔥 Projects
 
-I'm currently working on projects together with [**Sparks' Studio**](https://github.com/SparksStudioOrg), where we explore new ideas and experiment with different kinds of software.
+I'm building projects together with [**Sparks' Studio**](https://github.com/SparksStudioOrg), a small indie development studio focused on creativity and experimentation.
+
+➡ https://github.com/SparksStudioOrg
 
 ## 🎯 Goals
 
 * Learn more about computer science
-* build open-source tools
-* design my own programming language
-* study computer science in the future
+* Build open-source tools
+* Design my own programming language
+* Study computer science in the future
 
 ## ⚡ Fun fact
 
 Some of my projects start as random ideas or experiments — and sometimes those turn into something much bigger.
+
+## 📫 Contact
+
+You can reach me here on GitHub or through the Sparks' Studio organization.
 
 ---
 
