@@ -4,6 +4,8 @@ I'm a young developer who loves building creative and experimental projects.
 
 I enjoy combining **programming, game development, design, and technology** to create new ideas.
 
+<img src="assets/logos/v1.2_RedSparkDev_Dunkler_Master.png" width="30%" alt="RedSparkDev-Logo">
+
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedSparkDevLabs&show_icons=true&theme=dark)
